@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hey there! I'm a software developer with a passion for crafting full-fledged web applications. I'm capable in both front-end and back-end development, but I'm especially enthusiastic about using frontend technologies to develop, and sometimes design, beautiful and intuitive user interfaces. On top of that, I'm really into sports and living a healthy lifestyle! I'm always striving to learn more and grow as a professional.
 
 * 🌍  I'm based in Italy
+* 🚀  Currently working on building things for the web in order to enhance and enlarge my developer skills.
+* 🧠  Currently deepening my knowledge of frontend development and exploring computer science concepts with [CS50](https://www.youtube.com/watch?v=8mAITcNt710&t=842s) and [Data Structure and Algorithm course](https://frontendmasters.com/courses/algorithms/)
 * 🖥️  [Check out my porfolio](http://portfolio.com)
 * ✉️  You can contact me at [alecrinella99@gmail.com](mailto:alecrinella99@gmail.com) or on [Linkedin](https://www.linkedin.com/in/alessandro-crinella-4788a220a/)
-* 🚀 I'm currently working on building things for the web in order to enhance and enlarge my developer skills.
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
