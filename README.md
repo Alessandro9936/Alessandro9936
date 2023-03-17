@@ -7,7 +7,7 @@ Hey there! I'm a Full Stack Developer with a passion for crafting full-fledged w
 * 🚀  Currently working on building things for the web in order to enhance and enlarge my developer skills.
 * 🧠  Currently deepening my knowledge of frontend development and exploring computer science concepts with [CS50](https://www.youtube.com/watch?v=8mAITcNt710&t=842s) and [Data Structure and Algorithm course](https://frontendmasters.com/courses/algorithms/)
 * 🖥️  [Check out my porfolio](https://www.alessandrocrinella.com/)
-* ✉️  You can contact me at [alecrinella99@gmail.com](mailto:alecrinella99@gmail.com) or on [Linkedin](https://www.linkedin.com/in/alessandro-crinella-4788a220a/)
+* ✉️  You can contact me at [alecrinella99@gmail.com](mailto:alecrinella99@gmail.com) or on [Linkedin](https://www.linkedin.com/in/alessandrocrinella)
 
 ### Skills
 
