@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hey there! I'm a Full Stack Developer with a passion for crafting full-fledged web applications. I'm capable in both front-end and back-end development, but I'm especially enthusiastic about using frontend technologies to develop, and sometimes design, beautiful and intuitive user interfaces. On top of that, I'm really into sports and living a healthy lifestyle! I'm always striving to learn more and grow as a professional.
 
 * 🌍  I'm based in Italy
-* 🚀  Currently working on building things for the web in order to enhance and enlarge my developer skills.
-* 🧠  Currently deepening my knowledge of frontend development and exploring computer science concepts with [CS50](https://www.youtube.com/watch?v=8mAITcNt710&t=842s) and [Data Structure and Algorithm course](https://frontendmasters.com/courses/algorithms/)
+* 🚀  Currently working on building things in order to enhance and enlarge my developer skills.
 * 🖥️  [Check out my porfolio](https://www.alessandrocrinella.com/)
 * ✉️  You can contact me at [alecrinella99@gmail.com](mailto:alecrinella99@gmail.com) or on [Linkedin](https://www.linkedin.com/in/alessandrocrinella)
 
